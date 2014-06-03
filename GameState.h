@@ -2,6 +2,7 @@
 #include "GameStateManager.h"
 #include "ofxUI.h"
 
+// cOMENT
 class GameStateManager;
 class GameState {
 public:
